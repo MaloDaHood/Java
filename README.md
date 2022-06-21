@@ -2,7 +2,7 @@
 
 Where I learn from :
 
-- [Apprenez à programmer en Java](https://openclassrooms.com/fr/courses/6173501-apprenez-a-programmer-en-java)
+- [Java Full Course ☕](https://www.youtube.com/watch?v=xk4_1vDrzzo)
 
 ***
 
